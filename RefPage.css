@@ -1,0 +1,46 @@
+* {
+	background: #f9f9f9;
+}
+
+.profile-page {
+	text-align: center;
+	padding-top: 2.5rem;
+}
+
+.profile-pic {
+	width: 20%;
+	border-radius: 50%;
+}
+
+.profile-info{
+	display: flex;	
+	flex-direction: column;
+}
+
+.wrapper-profileName {
+	display: flex;
+    justify-content: center;
+    flex-direction: row;
+    font-size: 5rem;
+}
+
+.wrapper-bloodType {
+	display: flex;
+    justify-content: center;
+    flex-direction: row;
+    font-size: 5rem;
+}
+
+.wrapper-status {
+	display: flex;
+	justify-content: center;
+	flex-direction: row;
+	font-size: 5rem;
+}
+
+.wrapper-info {
+	display: flex;
+	justify-content: center;
+	flex-direction: row;
+	font-size: 5rem;
+}
