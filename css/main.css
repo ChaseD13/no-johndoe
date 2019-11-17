@@ -194,6 +194,7 @@ iframe {
   width: 316px;
   text-align: center;
   font-size: 2rem;
+  text-decoration: none;
 }
 
 .login100-pic img {
