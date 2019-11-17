@@ -1,7 +1,4 @@
 
-
-
-
 /*//////////////////////////////////////////////////////////////////
 [ FONT ]*/
 
@@ -195,6 +192,8 @@ iframe {
 [  ]*/
 .login100-pic {
   width: 316px;
+  text-align: center;
+  font-size: 2rem;
 }
 
 .login100-pic img {
